@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="COL| CARACOL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/caracol.png" group-title="NACIONALES COLOMBIA",COL| CARACOL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/493
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL| WIN SPORTS" tvg-logo="http://logos.digitalesnetworks.com/logotipos/WINSPORT.png" group-title="PACK DEPORTIVO COLOMBIA",COL| WIN SPORTS
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/511#EXTINF:-1 tvg-id="senal.co" tvg-name="COL| SEÑAL COLOMBIA" tvg-logo="http://logos.digitalesnetworks.com/logotipos/SENALCOLOMBIA.png" group-title="NACIONALES COLOMBIA",COL| SEÑAL COLOMBIA
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/509
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="COL| RCN" tvg-logo="http://logos.digitalesnetworks.com/logotipos/RCNHD.png" group-title="NACIONALES COLOMBIA",COL| RCN
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/504
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="COL| TELEANTOQUIA" tvg-logo="http://logos.digitalesnetworks.com/logotipos/Teleantioquia.png" group-title="NACIONALES COLOMBIA",COL| TELEANTOQUIA
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/500
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="COL| CANAL UNO" tvg-logo="http://logos.digitalesnetworks.com/logotipos/CanalUno.png" group-title="NACIONALES COLOMBIA",COL| CANAL UNO
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/505
+#EXTINF:-1 tvg-id="nuestratelenoticias24.co" tvg-name="COL| NTN 24" tvg-logo="http://logos.digitalesnetworks.com/logotipos/NTN24COLOMBIA.png" group-title="NACIONALES COLOMBIA",COL| NTN 24
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/503
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="COL| CITY TV" tvg-logo="http://logos.digitalesnetworks.com/logotipos/CITYTV.png" group-title="NACIONALES COLOMBIA",COL| CITY TV
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/502
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="COL| TELECARIBE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/telecaribe.png" group-title="NACIONALES COLOMBIA",COL| TELECARIBE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/501
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="COL| TELEPACIFICO" tvg-logo="http://logos.digitalesnetworks.com/logotipos/TELEPACIFICO.png" group-title="NACIONALES COLOMBIA",COL| TELEPACIFICO
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/497
+#EXTINF:-1 tvg-id="canaltrece.co" tvg-name="COL| CANAL TRECE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/CANALTRECECOLOMBIA.png" group-title="NACIONALES COLOMBIA",COL| CANAL TRECE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/495
+#EXTINF:-1 tvg-id="" tvg-name="COL| WIN SPORTS + HD" tvg-logo="http://logos.digitalesnetworks.com/logotipos/WINSPORTPLUSCOLOMBIA.png" group-title="PACK DEPORTIVO COLOMBIA",COL| WIN SPORTS + HD
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/514
+#EXTINF:-1 tvg-id="espn.co" tvg-name="COL| ESPN" tvg-logo="http://logos.digitalesnetworks.com/logotipos/espn.png" group-title="PACK DEPORTIVO COLOMBIA",COL| ESPN
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/517
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="COL| ESPN 2" tvg-logo="http://logos.digitalesnetworks.com/logotipos/espn2.png" group-title="EN VIVO",COL| ESPN 2
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/518
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 3" tvg-logo="http://logos.digitalesnetworks.com/logotipos/espn3.png" group-title="PACK DEPORTIVO COLOMBIA",COL| ESPN 3
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/519
+#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="COL| FOX SPORTS" tvg-logo="http://logos.digitalesnetworks.com/logotipos/FOXSPORT.png" group-title="PACK DEPORTIVO COLOMBIA",COL| FOX SPORTS
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/520
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="COL| FOX SPORTS 2" tvg-logo="http://logos.digitalesnetworks.com/logotipos/FOXSPORT2.png" group-title="PACK DEPORTIVO COLOMBIA",COL| FOX SPORTS 2
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/521
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="COL| FOX SPORTS 3" tvg-logo="http://logos.digitalesnetworks.com/logotipos/foxsport3.png" group-title="PACK DEPORTIVO COLOMBIA",COL| FOX SPORTS 3
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/522
+#EXTINF:-1 tvg-id="" tvg-name="COL| WIN SPORTS +" tvg-logo="http://logos.digitalesnetworks.com/logotipos/WINSPORTPLUSCOLOMBIA.png" group-title="PACK DEPORTIVO COLOMBIA",COL| WIN SPORTS +
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/513
+#EXTINF:-1 tvg-id="" tvg-name="CULT| GLITZ" tvg-logo="http://logos.digitalesnetworks.com/logotipos/glitz.png" group-title="CULTURA & MUNDO",CULT| GLITZ
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/332
+#EXTINF:-1 tvg-id="" tvg-name="CULT| HGTV" tvg-logo="http://logos.digitalesnetworks.com/logotipos/HGTV.png" group-title="CULTURA & MUNDO",CULT| HGTV
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/333
+#EXTINF:-1 tvg-id="history2.co" tvg-name="CULT| HISTORY 2" tvg-logo="http://logos.digitalesnetworks.com/logotipos/h2.png" group-title="CULTURA & MUNDO",CULT| HISTORY 2
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/334
+#EXTINF:-1 tvg-id="historychannel.co" tvg-name="CULT| HISTORY CHANNEL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/history.png" group-title="CULTURA & MUNDO",CULT| HISTORY CHANNEL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/335
+#EXTINF:-1 tvg-id="" tvg-name="CULT| DISCOVERY TLC" tvg-logo="http://logos.digitalesnetworks.com/logotipos/tlc.png" group-title="CULTURA & MUNDO",CULT| DISCOVERY TLC
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/325
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="CULT| DISCOVERY CHANNEL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/DISCOVERYCHANNEL.png" group-title="CULTURA & MUNDO",CULT| DISCOVERY CHANNEL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/319
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SYFY" tvg-logo="http://logos.digitalesnetworks.com/logotipos/syfy.png" group-title="CINE, PELICULAS Y SERIES ",CINE| SYFY
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/363
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TCM" tvg-logo="http://logos.digitalesnetworks.com/logotipos/tcm.png" group-title="CINE, PELICULAS Y SERIES ",CINE| TCM
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/362
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| MTV" tvg-logo="http://logos.digitalesnetworks.com/logotipos/mtv.png" group-title="PACK MUSICA",MUSIC| MTV
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/958
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| HTV" tvg-logo="http://logos.digitalesnetworks.com/logotipos/HTVMUSICA.png" group-title="PACK MUSICA",MUSIC| HTV
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/957
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS| TELEMUNDO NY" tvg-logo="http://logos.digitalesnetworks.com/logotipos/telemundony.png" group-title="PACK NOVELAS",NOVELAS| TELEMUNDO NY
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/927
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS| TELEMUNDO INTERNACIONAL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/telemundo.png" group-title="PACK NOVELAS",NOVELAS| TELEMUNDO INTERNACIONAL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/928
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| ENLACE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/ENLACERELIGION.png" group-title="PACK RELIGIONES",RELIGION| ENLACE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/949
+#EXTINF:-1 tvg-id="boomerang.co" tvg-name="KIDS| CARTOONITO" tvg-logo="http://logos.digitalesnetworks.com/logotipos/CARTOONITO.png" group-title="KIDS/INFANTILES",KIDS| CARTOONITO
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/369
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="KIDS| DISCOVERY KIDS" tvg-logo="http://logos.digitalesnetworks.com/logotipos/discoverykids.png" group-title="KIDS/INFANTILES",KIDS| DISCOVERY KIDS
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/374
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="KIDS| DISNEY JR" tvg-logo="http://logos.digitalesnetworks.com/logotipos/disneyjr.png" group-title="KIDS/INFANTILES",KIDS| DISNEY JR
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/373
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="KIDS| NICK" tvg-logo="http://logos.digitalesnetworks.com/logotipos/nick.png" group-title="KIDS/INFANTILES",KIDS| NICK
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/375
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| SPACE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/space.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| SPACE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/293
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| SONY" tvg-logo="http://logos.digitalesnetworks.com/logotipos/SONYLOGOMORADO.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| SONY
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/292
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| STAR CHANNEL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/STARZCHANNEL.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| STAR CHANNEL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/295
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| TNT" tvg-logo="http://logos.digitalesnetworks.com/logotipos/tnt.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| TNT
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/301
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| TNT SERIES" tvg-logo="http://logos.digitalesnetworks.com/logotipos/tntseries.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| TNT SERIES
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/302
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| UNIVERSAL CHANNEL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/universachanell.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| UNIVERSAL CHANNEL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/303
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| A&E" tvg-logo="http://logos.digitalesnetworks.com/logotipos/aea.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| A&E
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/261
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| AMC" tvg-logo="http://logos.digitalesnetworks.com/logotipos/amc.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| AMC
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/262
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| AXN" tvg-logo="http://logos.digitalesnetworks.com/logotipos/AXN.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| AXN
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/263
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| CINECANAL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/cinecanal.png" group-title="CINE, PELICULAS Y SERIES ",CINE HD| CINECANAL
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/266
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TNT" tvg-logo="http://logos.digitalesnetworks.com/logotipos/tnt.png" group-title="CINE, PELICULAS Y SERIES ",CINE| TNT
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/541
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SPACE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/space.png" group-title="CINE, PELICULAS Y SERIES ",CINE| SPACE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/254
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY" tvg-logo="http://logos.digitalesnetworks.com/logotipos/SONYLOGOMORADO.png" group-title="CINE, PELICULAS Y SERIES ",CINE| SONY
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/365
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT" tvg-logo="http://logos.digitalesnetworks.com/logotipos/paramount.png" group-title="CINE, PELICULAS Y SERIES ",CINE| PARAMOUNT
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/366
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO XTREME" tvg-logo="http://logos.digitalesnetworks.com/logotipos/hbo-xtreme.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO XTREME
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/524
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO SIGNATURE" tvg-logo="http://logos.digitalesnetworks.com/logotipos/hbosignature.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO SIGNATURE
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/564
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO POP" tvg-logo="http://logos.digitalesnetworks.com/logotipos/hbopop.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO POP
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/253
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO MUNDI" tvg-logo="http://logos.digitalesnetworks.com/logotipos/hbomundi.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO MUNDI
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/565
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO 2" tvg-logo="https://logos.xbots.com.mx/2411.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO 2
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/255
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO +" tvg-logo="http://logos.digitalesnetworks.com/logotipos/hboplus.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO +
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/566
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO" tvg-logo="http://logos.digitalesnetworks.com/logotipos/HBO.png" group-title="CINE, PELICULAS Y SERIES ",CINE| HBO
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/567
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FX" tvg-logo="http://logos.digitalesnetworks.com/logotipos/fx.png" group-title="CINE, PELICULAS Y SERIES ",CINE| FX
+http://play.flamaplus.tv:25461/gutierrezayalayovani@gmail.com/3pYvXNCR4Mgs/358
